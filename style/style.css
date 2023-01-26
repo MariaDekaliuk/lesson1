@@ -1,0 +1,21 @@
+img {
+    width: 800px;
+    height: 300px;
+}
+
+p {
+    color: darkgreen;
+    font-size: 24px;
+    display: inline; 
+
+}
+.paragraf {
+color:blueviolet;
+}
+
+#p2{
+    color: aquamarine;
+}
+.bild {
+    display: block;
+}
