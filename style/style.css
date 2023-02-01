@@ -1,21 +1,32 @@
 img {
-    width: 800px;
+    width: 500px;
     height: 300px;
 }
 
 p {
-    color: darkgreen;
-    font-size: 24px;
+    color: rgb(4, 36, 167);
+    font-size: 20px;
+    /* размер текста в параграфе */
     display: inline; 
+    /* свойства не перешел на новую строкуии стал строчным элементом */
 
 }
 .paragraf {
 color:blueviolet;
 }
 
+
+/* задаем значение свойству тега, id у тега в index.html 
+   может только один*/
 #p2{
-    color: aquamarine;
+    color:darkgreen;
+    font: icon;
+    font-size: larger;
 }
+
+/* задаем значение свойству тега, class у тега в index.html 
+   может быть у многих 
+   впереди точка . */
 .bild {
     display: block;
 }
